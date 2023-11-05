@@ -1,7 +1,7 @@
 # javascript_problems
-# Reverse Words in a Sentence and Sort Arrays
-# Sort Array in Decending order
-## Reverse Words in a Sentence
+## Reverse Words in a Sentence and Sort Arrays
+## Sort Array in Decending order
+
 
 ### Description
 
